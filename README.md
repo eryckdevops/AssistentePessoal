@@ -1,6 +1,6 @@
 # Assistente Pessoal com Python
 
-Fala pessoal, essa é a Ana, uma assistente pessoal virtual que escuta os seus comandos de voz e executa-os!
+Então esse é um projeto que estou implementando para controlar tanto meu computador quanto algumas funções de casa, estou usando a alexa e o GPT, esse é Wilian, uma assistente pessoal virtual que escuta os seus comandos de voz e executa-os!
 
 ## Features:
 * **⌚ Horário atual:** "Que horas são?"<br>
